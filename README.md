@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/julcollas/dashing-slurm/master/screenshots/board.png)
 
-Slurm [dashing](http://shopify.github.com/dashing) dashboard to monitor [slurm](http://slurm.schedmd.com) jobs, partition and users activities with [slurmmon-graphite](http://ToDo)
+Slurm [dashing](http://shopify.github.com/dashing) dashboard to monitor [slurm](http://slurm.schedmd.com) jobs, partition and users activities with the comming [slurmmon-graphite](https://github.com/julcollas)
 
 
 ## Dependencies
